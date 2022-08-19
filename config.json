@@ -1,26 +1,26 @@
 {
-  "guildID": "",
+  "guildID": "995462571261968528",
   "prefix": [".", "!"],
-  "root": [""],
-  "Founders": [""],
+  "root": ["920021224682319913"],
+  "Founders": ["1010260506960990319"],
   "muteLimit": 3, "banLimit": 2, "jailLimit": 2, "kayitsizLimit": 2, "cmdLimit": 3, "Sure": 60, "userTime": 604800000, "messageCount": 1, "messageCoin": 1, "messageDolar": 1, "voiceCount": 1, "voiceCoin": 1, "voiceDolar": 1, "registerCoin": 2, "taggedCoin": 1, "inviteCoin": 1,
-  "durum": { "name": "Aris 💜 Lesnar","url": "https://www.twitch.tv/arislesnar", "type": "STREAMING" },
+  "durum": { "name": "Can Kara 3D ❤️ AQAUAMAN","url": "https://www.twitch.tv/arislesnar", "type": "STREAMING" },
   "MongoURL": "",
-  "guildURL": "1953",
-  "bots": [""],
-  "clientID": "",
-  "clientSecret": "",
+  "guildURL": "aquamans",
+  "bots": ["1010260822703997060"],
+  "clientID": "1010216331251028058",
+  "clientSecret": "aRdR4_CwDrccRhSJDAuWhfpq0o47eIBm",
   "callbackURL": "",
 
-  "Moderation":"",
-  "Guard_I":"",
-  "Guard_II":"",
-  "Guard_III":"",
-  "Guard_IV":"",
+  "Moderation":"MTAxMDIxNjMzMTI1MTAyODA1OA.GazkH1.uzFdWGuH_zOvLk3vCjI4totLWdYSDzzYnUcYNA",
+  "Guard_I":"MTAxMDIyMzAyNDU2NzUwMDg5Mg.GjPuQr.Lq7bEcSEQE641Hc3EDiFMVS3SJdKULL8aVlzRI",
+  "Guard_II":"MTAxMDIyMzM4OTcyMzU5MDc1Ng.GZlo2K.5xv17oCvXvYp-SyUtIqzkFh1C3l4KeKi5VuQHM",
+  "Guard_III":"MTAxMDIyMzcyMjA5NzAzNzM1Mg.G67OK3.vjB2C-sNCnaxg3SuNKFMEgKVodBs-wErhxXb9w",
+  "Guard_IV":"MTAxMDIyNDA3ODI2MDU0MzQ5OA.GOBIV7.RZqIc78wPulrXHRYq0wcHXHkB1BZWmZyzMI0Gs",
   "Tokens": [
-      "",
-      "",
-      ""
+      "MTAxMDIyMzAyNDU2NzUwMDg5Mg.GjPuQr.Lq7bEcSEQE641Hc3EDiFMVS3SJdKULL8aVlzRI",
+      "MTAxMDIyMzM4OTcyMzU5MDc1Ng.GZlo2K.5xv17oCvXvYp-SyUtIqzkFh1C3l4KeKi5VuQHM",
+      "MTAxMDIyMzcyMjA5NzAzNzM1Mg.G67OK3.vjB2C-sNCnaxg3SuNKFMEgKVodBs-wErhxXb9w"
   ]
 }
 
